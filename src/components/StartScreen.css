@@ -1,0 +1,14 @@
+.start h1 {
+  font-size: 3.5em;
+}
+
+.start button {
+  background-color: rgb(223, 41, 78);
+  border: 0;
+  border-radius: 3px;
+  color: white;
+  font-weight: bolder;
+  padding: 10px;
+  font-size: 1.5em;
+  cursor: pointer;
+}
